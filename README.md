@@ -1,1 +1,3 @@
-# dsc-stu
+# HOME
+
+![](./img/logo.png)
