@@ -1,6 +1,5 @@
 ![](./img/logo.png)
 
-
 ## [Ongoing Projects](https://github.com/orgs/dsc-stu/projects)
 
 **[https://github.com/orgs/dsc-stu/projects](https://github.com/orgs/dsc-stu/projects)**
