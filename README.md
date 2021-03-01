@@ -1,5 +1,3 @@
-# HOME
-
 ![](./img/logo.png)
 
 
