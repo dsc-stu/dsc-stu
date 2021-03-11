@@ -8,7 +8,7 @@
 
 **Why was this organization founded?**
 
-=> Read [the blog (vietnamese)](https://thuanpham2311.github.io/posts/dsc-stu-la-cai-meo-gi/)
+=> Read [About (vietnamese)](<./about(vietnamese).md>)
 
 **You have questions, share ideas or engage with other community members?**
 
