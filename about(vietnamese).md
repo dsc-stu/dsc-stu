@@ -56,8 +56,6 @@ Rất mong được đồng hành cùng các đồng chí.
 
 **Ref:**
 
-[https://github.com/dsc-stu](https://github.com/dsc-stu)
-
-[https://www.youtube.com/watch?v=FLfhZvdzF7U](https://www.youtube.com/watch?v=FLfhZvdzF7U)
-
-[https://developers.google.com/community/dsc/](https://developers.google.com/community/dsc/)
+- [https://github.com/dsc-stu](https://github.com/dsc-stu)
+- [https://www.youtube.com/watch?v=FLfhZvdzF7U](https://www.youtube.com/watch?v=FLfhZvdzF7U)
+- [https://developers.google.com/community/dsc/](https://developers.google.com/community/dsc/)
