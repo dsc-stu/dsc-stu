@@ -54,10 +54,6 @@ Về mục đích sâu xa là cà khịa và đua rank với mấy trường kh�
 
 Rất mong được đồng hành cùng các đồng chí.
 
-**DISCLAIMER**
-
-Những câu chuyện, bài học và lời khuyên của tui là những trải nghiệm riêng của cá nhân, không phản ánh ý kiến từ những tổ chức hay công ty nào. Đa phần lời tui viết là chém gió, nên mấy chế nên suy ngẫm nó có phù hợp với hoàn cảnh của bản thân không nha.
-
 **Ref:**
 
 [https://github.com/dsc-stu](https://github.com/dsc-stu)
