@@ -1,4 +1,4 @@
-<img src=".img/DSC-Saigon-Technology-University-gray-horizontal.png">
+<img src=".img/DSC-Saigon-Technology-University-gray-vertical.png">
 
 ## [Ongoing Projects](https://github.com/orgs/dsc-stu/projects)
 
