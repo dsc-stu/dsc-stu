@@ -1,4 +1,4 @@
-![](.img/DSC-Saigon-Technology-University-colored-horizontal.png)
+<img src=".img/DSC-Saigon-Technology-University-gray-horizontal.png">
 
 ## [Ongoing Projects](https://github.com/orgs/dsc-stu/projects)
 
