@@ -1,4 +1,4 @@
-![](./img/logo.png)
+![](.img/DSC-Saigon-Technology-University-colored-horizontal.png)
 
 ## [Ongoing Projects](https://github.com/orgs/dsc-stu/projects)
 
