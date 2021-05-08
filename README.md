@@ -6,11 +6,9 @@
 
 [youtube]: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA
 
-## [Ongoing Projects][projects]
+## [Ongoing Projects]
 
 [https://github.com/orgs/dsc-stu/projects][projects]
-
-[projects]: https://github.com/orgs/dsc-stu/projects
 
 ## **You have questions, share ideas or engage with other community members?**
 
