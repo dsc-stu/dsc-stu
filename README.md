@@ -18,7 +18,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
         <p>💸 Finance & Sponsorships</p>
         <a href="https://github.com/dsc-stu/dsc-stu/blob/main/promotionalMeterials.md"><p>📢 Promotional Meterials</p></a>
         <a href="https://github.com/dsc-stu/dsc-stu/blob/main/externalContacts.md"><p>☎️ External Contacts</p></a>
-        <a href="https://github.com/dsc-stu/dsc-stu/discussions/3"><p>🙏 Q&A</p></a>
+        <a href="https://github.com/dsc-stu/dsc-stu/discussions/categories/q-a"><p>🙏 Q&A</p></a>
         </td>
     </tr>
 </table>
