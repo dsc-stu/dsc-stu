@@ -7,7 +7,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
 <table>
     <tr>
         <td>
-        <p>🏆 Club Mission</p>
+        <a href="https://github.com/dsc-stu/dsc-stu/blob/main/clubMission.md"><p>🏆 Club Mission</p></a>
         <a href="https://github.com/orgs/dsc-stu/people"><p>🧑‍🤝‍🧑 Members</p></a>
         <a href="https://github.com/dsc-stu/dsc-stu/discussions/categories/ideas"><p>💡 Ideas</p></a>
         <p>📝 Meeting Notes</p>
