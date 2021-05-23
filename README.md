@@ -1,4 +1,4 @@
-<img src="./img/DSC-Saigon-Technology-University-colored-horizontal.png" width="100%"/>
+![https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png](https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png)
 
 ## Social link
 
