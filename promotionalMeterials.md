@@ -33,8 +33,11 @@ Click to logo you want download, when browser loaded to other page right click a
 </div>
 
 ## SNS link
-- Youtube: [https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA][youtube]
-- Github: [https://www.github.com/dsc-stu][github]
+
+- Facebook: https://www.facebook.com/dscstu/
+- Github: https://github.com/dsc-stu
+- YouTube: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA/
+- Discord: https://discord.gg/p92uD3F4He
 
 [youtube]: https://www.youtube.com/channel/UCjjkz2HwC-Ud6_o8fdD3isA
 [github]: https://www.github.com/dsc-stu
