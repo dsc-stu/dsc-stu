@@ -27,6 +27,6 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
     </tr>
 </table>
 
-<## Events
+## Events
 
 Past, Upcoming Events...
