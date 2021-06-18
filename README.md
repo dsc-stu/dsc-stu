@@ -23,8 +23,7 @@ Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion
         <a href="https://github.com/dsc-stu/dsc-stu/discussions/categories/q-a"><p>🙏 Q&A</p></a>
         </td>
     </tr>
-</table>
 
-## Events
+<## Events
 
 Past, Upcoming Events...
