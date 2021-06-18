@@ -1,3 +1,5 @@
+![https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png](https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png)
+
 # 🏡 Club Homepage
 
 Welcome to the club! Here's all the stuff you need to know, use, and focus on.
