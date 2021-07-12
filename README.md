@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png](https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png)
+![DSC STU banner](./img/DSC-Saigon-Technology-University-colored-horizontal.png)
 
 # 🏡 Club Homepage
 
