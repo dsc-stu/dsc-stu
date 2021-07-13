@@ -1,8 +1,6 @@
-![https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png](https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png)
+![banner](./img/banner.png)
 
-# 🏡 Club Homepage
-
-Welcome to the club! Here's all the stuff you need to know, use, and focus on.
+# read-me-template
 
 Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion](https://github.com/dsc-stu/dsc-stu/discussions) if you have any questions!
 
