@@ -1,6 +1,6 @@
 ![banner](./img/banner.png)
 
-# read-me-template
+# 🏡 Club Homepage
 
 Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion](https://github.com/dsc-stu/dsc-stu/discussions) if you have any questions!
 
