@@ -2,35 +2,11 @@
 
 Materials used to promote our club across campus.
 
-## Logos
+## Logos and design stuff
 
-**How to download:**
-Click to logo you want download, when browser loaded to other page right click and `save image as...`
+<https://www.figma.com/community/file/989801547832781588>
 
-<div align="center">
-
-<a href="https://raw.githubusercontent.com/dsc-stu/resource/main/img/logoDSC-STU.png">
-    <img src="https://raw.githubusercontent.com/dsc-stu/resource/main/img/logoDSC-STU.png" width="15%"/>
-</a>
-&emsp;
-<a href="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png">
-    <img src="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-horizontal.png" width="70%"/>
-</a>
-&emsp;
-<a href="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-vertical.png">
-    <img src="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-colored-vertical.png" width="30%"/>
-</a>
-&emsp;
-<a href="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-gray-horizontal.png">
-    <img src="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-gray-horizontal.png" width="30%"/>
-</a>
-&emsp;
-<a href="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-gray-vertical.png">
-    <img src="https://raw.githubusercontent.com/dsc-stu/resource/main/img/DSC-Saigon-Technology-University-gray-vertical.png" width="30%"/>
-</a>
-&emsp;
-
-</div>
+<https://goo.gle/gdsc-brand-guide>
 
 ## SNS link
 
